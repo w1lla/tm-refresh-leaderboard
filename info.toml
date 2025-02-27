@@ -1,9 +1,9 @@
 [meta]
-name = "Refresh Leaderboard"
-author = "nbeerten"
+name     = "RefreshLeaderBoards_StuntImproved"
+author = "w1lla_"
 category = "Utilities"
-version = "1.4.1"
-siteid = 229
+version = "1.4.2"
+siteid   = 692
 
 [script]
 optional_dependencies = ["UltrawideUIFix"]
