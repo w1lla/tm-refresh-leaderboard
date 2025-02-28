@@ -51,7 +51,6 @@ namespace Leaderboard {
             "TM_TimeAttack_Online",
             "TM_Campaign_Local",
             "TM_PlayMap_Local",
-            "TM_Stunt_Local",
             "TM_StuntMulti_Online",
             "TM_StuntSolo_Local"
         };
